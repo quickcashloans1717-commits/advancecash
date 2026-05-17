@@ -43,8 +43,8 @@ const ContactPage = () => {
                     <div>
                       <h3 className="font-mono font-bold mb-2">Email</h3>
                       <p className="text-muted-foreground">
-                        info@unitedcapitallending.com<br />
-                        support@unitedcapitallending.com
+                        info@advancecashamerica.com<br />
+                        support@advancecashamerica.com
                       </p>
                     </div>
                   </div>
