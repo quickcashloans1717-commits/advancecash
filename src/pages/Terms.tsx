@@ -18,7 +18,7 @@ const Terms = () => {
               <section>
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">1. Agreement to Terms</h2>
                 <p>
-                  By accessing and using United Capital Lending's services, you agree to be bound by these Terms and Conditions. 
+                  By accessing and using Advance Cash America's services, you agree to be bound by these Terms and Conditions. 
                   If you disagree with any part of these terms, you may not access our services.
                 </p>
               </section>
@@ -28,7 +28,7 @@ const Terms = () => {
                 <p>
                   All loan applications are subject to approval. We reserve the right to decline any application 
                   without providing specific reasons. Application approval depends on creditworthiness assessment, 
-                  income verification, and other factors as determined by United Capital Lending.
+                  income verification, and other factors as determined by Advance Cash America.
                 </p>
               </section>
 
@@ -53,7 +53,7 @@ const Terms = () => {
               <section>
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">5. Use of Information</h2>
                 <p>
-                  By applying for a loan, you authorize United Capital Lending to obtain and verify information from 
+                  By applying for a loan, you authorize Advance Cash America to obtain and verify information from 
                   credit bureaus, banks, employers, and other relevant sources. This information is used 
                   solely for loan assessment and servicing purposes.
                 </p>
@@ -62,7 +62,7 @@ const Terms = () => {
               <section>
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">6. Default and Collections</h2>
                 <p>
-                  Failure to make payments as agreed constitutes default. In case of default, United Capital Lending 
+                  Failure to make payments as agreed constitutes default. In case of default, Advance Cash America 
                   may report to credit bureaus, engage collection agencies, or pursue legal action to recover
                   outstanding amounts.
                 </p>
@@ -71,7 +71,7 @@ const Terms = () => {
               <section>
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">7. Modifications</h2>
                 <p>
-                  United Capital Lending reserves the right to modify these terms at any time. Changes will be effective 
+                  Advance Cash America reserves the right to modify these terms at any time. Changes will be effective 
                   upon posting to our website. Continued use of our services after modifications constitutes 
                   acceptance of the updated terms.
                 </p>
@@ -90,7 +90,7 @@ const Terms = () => {
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">9. Contact Information</h2>
                 <p>
                    For questions regarding these terms, please contact us at:<br />
-                   Email: legal@unitedcapitallending.com<br />
+                   Email: legal@advancecashamerica.us<br />
                    Address: 1008 N Vermont Ave, Los Angeles, CA 90029
                 </p>
               </section>

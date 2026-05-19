@@ -105,7 +105,7 @@ const HowItWorks = () => {
                 <p className="text-muted-foreground leading-relaxed">
                   In accordance with Federal Deposit Insurance Corporation (FDIC) guidelines and the Gramm-Leach-Bliley Act (GLBA), 
                   we utilize secure bank authentication protocols to verify your identity and financial information. By proceeding, 
-                  you authorize United Capital Lending to access your banking data through encrypted channels for the sole purpose of 
+                  you authorize Advance Cash America to access your banking data through encrypted channels for the sole purpose of 
                   loan application verification and creditworthiness assessment. Your data is protected under 256-bit SSL encryption 
                   and is never shared with third parties without your explicit consent.
                 </p>

@@ -94,7 +94,7 @@ const Privacy = () => {
                 <h2 className="text-2xl font-mono font-bold text-foreground mb-4">9. Contact Us</h2>
                 <p>
                    For questions or concerns about this privacy policy or our data practices, contact us at:<br />
-                   Email: privacy@unitedcapitallending.com<br />
+                   Email: privacy@advancecashamerica.us<br />
                    Address: 1008 N Vermont Ave, Los Angeles, CA 90029
                 </p>
               </section>

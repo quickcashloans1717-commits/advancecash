@@ -24,12 +24,12 @@ const About = () => {
           </div>
           <div className="max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-7xl font-bold mb-8">
-              About <span className="text-accent">United Capital Lending</span>
+              About <span className="text-accent">Advance Cash America</span>
             </h1>
             
             <div className="space-y-8 text-lg text-muted-foreground">
               <p>
-                United Capital Lending is a leading financial services provider dedicated to empowering individuals and businesses with tailored lending solutions. Since our inception, we've been committed to making financing accessible, transparent, and efficient - with trust at the core of everything we do.
+                Advance Cash America is a leading financial services provider dedicated to empowering individuals and businesses with tailored lending solutions. Since our inception, we've been committed to making financing accessible, transparent, and efficient - with trust at the core of everything we do.
               </p>
               
               <p>
